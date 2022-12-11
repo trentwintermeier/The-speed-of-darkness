@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<h1 align=center> Annotating a Duality of Spaces in Muriel Rukeyser's *The Speed of Darkness* </h1>
+<h1 align=center> Annotating a Duality of Spaces in Muriel Rukeyser's <em> The Speed of Darkness</em> </h1>
 
 ![I0006_11_0162_tape](https://user-images.githubusercontent.com/112954339/206921444-a21bd69b-5a37-47c9-b84c-60c33ceaa3ef.jpeg)
 
