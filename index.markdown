@@ -8,3 +8,4 @@ layout: home
 
 ![I0006_11_0162_tape](https://user-images.githubusercontent.com/112954339/206921444-a21bd69b-5a37-47c9-b84c-60c33ceaa3ef.jpeg)
 
+<p align=center> By: Trent Wintermeier </p>
