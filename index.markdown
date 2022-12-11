@@ -4,6 +4,7 @@
 
 layout: home
 ---
-# Annotating a Duality of Spaces in Muriel Rukeyser's *The Speed of Darkness*
-![I0006_11_0162_tape](https://user-images.githubusercontent.com/112954339/206921322-130d12d0-cac7-4aa5-841a-0ee781bc105d.jpeg)
-<p align= center> By Trent Wintermeier </p>
+<h1 align=center> Annotating a Duality of Spaces in Muriel Rukeyser's *The Speed of Darkness* </h1>
+
+![I0006_11_0162_tape](https://user-images.githubusercontent.com/112954339/206921444-a21bd69b-5a37-47c9-b84c-60c33ceaa3ef.jpeg)
+
