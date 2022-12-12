@@ -5,6 +5,8 @@ permalink: works-cited
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+# Works Cited
+
 Ceraso, Steph. "(Re) Educating the senses: Multimodal listening, bodily learning, and the	composition of sonic experiences." College English 77.2 (2014): 102-123.
 
 Daw, Sarah. "“There is no out there”: trans-corporeality and process philosophy in Muriel	Rukeyser’s The Speed of Darkness." Feminist Modernist Studies 3.2 (2020): 217-233.
