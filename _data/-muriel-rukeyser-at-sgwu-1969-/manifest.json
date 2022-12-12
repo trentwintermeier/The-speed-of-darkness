@@ -32,6 +32,14 @@
               "none": ["Rukeyser Reading"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-rukeyser-speaks.json",
+            "label": {
+              "none": ["Rukeyser Speaks"]
+            }
+          }
         ],
         "items": [
           {
