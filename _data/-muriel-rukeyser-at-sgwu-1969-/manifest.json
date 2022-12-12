@@ -23,6 +23,16 @@
         "id": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3084.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/-muriel-rukeyser-at-sgwu-1969--canvas-1-rukeyser-reading.json",
+            "label": {
+              "none": ["Rukeyser Reading"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/The-speed-of-darkness/-muriel-rukeyser-at-sgwu-1969-/canvas-1/paintings",
