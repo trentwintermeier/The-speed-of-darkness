@@ -5,7 +5,7 @@ permalink: embodying-duality-and-making-meaning
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-# Part 1: Embodying Duality and Making Meaning
+# Embodying Duality and Making Meaning
 
 To begin, again, with the words of Muriel Rukeyser herself on the duality of her work: there are “two kinds of poems: the poems of unverifiable facts, based in dreams, in sex, in everything that can be given to other people only through the skill and strength by which it is given; and the other kind being the document, the poem that rests on material evidence” (Rukeyser “The Education of a Poet” 226). As Rukeyser understands her work to exist at the convergence of these “kinds of poems,” they come to balance the subjective and objective tensions which encompass poetics. And, while this is present in her words, it is also powerfully situated in the absence of language—in the silence of spaces. Take, for instance, figure 2; here, the fifth poetic occurrence of “The Speed of Darkness” is illustrated as it is in text, and this is located at minute 42:34 in the audio recording. (Figure 2) Even the spaces within the occurrences take on a new meaning when read visually and then heard audibly. Her exaggeration of syllables and length of pauses such as between “between” and “between” allow for what is literal material evidence to forge unverifiable meaning that is interpreted by the listener. 
 
