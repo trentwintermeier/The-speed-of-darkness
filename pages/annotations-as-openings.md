@@ -5,7 +5,7 @@ permalink: annotations-as-openings
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-# Part 2: Annotations as Openings
+# Annotations as Openings
 
 An essential element of this project’s assertion is the ability to note the occurrences of dualistic spaces which contribute meaning to Muriel Rukeyser’s “The Speed of Darkness.” When listened audibly, Rukeyser’s poem transforms from the aforementioned “group” or “series” to a single poem—a single poetic occurrence—which is mediated by a variety of spaces. These spaces, although, become unrecognizable as separating stanzas, catching of breath, or dramatic pausing. The group or series that is “The Speed of Darkness” becomes that which it is meant to be: one. Rukeyser’s poetic work takes shape in the aforementioned listening experience, as if it was meant to be read aloud to truly and accurately communicate its meaning. In this sense, what the listener derives (and creates) from these dualistic spaces depends on the recognition of separative gaps in language, which is done via annotation.
 
