@@ -43,6 +43,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-rukeyser-dialogue.json",
+            "label": {
+              "none": ["Rukeyser Dialogue"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-spaces.json",
             "label": {
               "none": ["Spaces"]
