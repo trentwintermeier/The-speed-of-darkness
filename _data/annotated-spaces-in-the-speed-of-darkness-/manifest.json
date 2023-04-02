@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Annotated Spaces in \"The Speed of Darkness\"" ] },
+    "label": { "en": [ "Annotated Spaces in \"Muriel Rukeyser at SGWU, 1969\"" ] },
     "homepage": [
       {
         "id": "https://archive.org/details/muriel_rukeyser_i006-11-162",
         "type": "Text",
-        "label": { "en": [ "Annotated Spaces in \"The Speed of Darkness\"" ] },
+        "label": { "en": [ "Annotated Spaces in \"Muriel Rukeyser at SGWU, 1969\"" ] },
         "format": "text/html"
       }
     ],
