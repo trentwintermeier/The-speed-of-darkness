@@ -57,7 +57,7 @@ Therefore, while this project utilizes annotations to denote embodied dualistic 
 
 *That* is shifting digital annotation from the margin to the center.  
 
-![My project-1 (2)](https://user-images.githubusercontent.com/112954339/207228054-d3b85f47-31a3-4210-8e0e-a3c92a9b8597.png)  
+<img src= "https://user-images.githubusercontent.com/112954339/207228054-d3b85f47-31a3-4210-8e0e-a3c92a9b8597.png" max-width="600" height="440" align="center">  
 
 ## Works Cited
 
@@ -65,7 +65,7 @@ Ceraso, Steph. “(Re) Educating the senses: Multimodal listening, bodily learni
 
 Clement, Tanya, Ben Brumfield, and Sara Brumfield. "The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video." DHQ: Digital Humanities Quarterly 16.2 (2022).
 
-Daw, Sarah. ““There is no out there”: trans-corporeality and process philosophy in Muriel Rukeyser’s The Speed of Darkness.” Feminist Modernist Studies 3.2 (2020): 217-233.
+Daw, Sarah. “There is no out there”: trans-corporeality and process philosophy in Muriel Rukeyser’s The Speed of Darkness.” Feminist Modernist Studies 3.2 (2020): 217-233.
 
 Gander, Catherine. “Facing the fact: word and image in Muriel Rukeyser’s’ Worlds Alongside’.” Journal of Narrative Theory 43.3 (2013): 288-328.
 
