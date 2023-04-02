@@ -1,0 +1,118 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,46.767343"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She has published ten volumes of poetry, which include such books as The Green Wave, The Turning Wind, Beast and View, U.S. 1, Theory of Flight, Body of Waking, Waterlily Fire, and The speed of darkness, amongst others. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2.147480,16.654901"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She has published essays, a biography-- she's working on a biography now. She has published a novel called The Orgy. She has published translations of the Mexican Writer Octavio Paz, and the Swedish poet Gunnar Ekelof. She has published a number of children's books. And, what else can I say?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "16.798066,36.936657"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She is a New Yorker. She was born in New York, she lives in New York, and so forth. I now introduce Muriel Rukeyser.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.700205,46.099238"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-introducer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We wish to announce that the next reading will be by F.R. Scott, and that will be on February 14th--at the same time-- in the theater in the basement of this building. Thank you. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2798.309645,2810.430977"
+        }
+      }
+    }
+  ]
+}
