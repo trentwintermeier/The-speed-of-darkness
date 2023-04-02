@@ -40,6 +40,14 @@
               "none": ["Spaces"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
         ],
         "items": [
           {
