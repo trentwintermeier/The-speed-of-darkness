@@ -1,0 +1,382 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-poems.json",
+  "type": "AnnotationPage",
+  "label": "Poems",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Song\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "414.906546,453.274856"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"In Our Time\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "474.558769"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Poem as Mask\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "570.097769"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Air\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "671.077053,700.473668"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Poem\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "710.686129,833.426543"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Anemone\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "847.838520,883.343523"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"For My Son\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "894.319532,1035.671440"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Orgy\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1054.092047,1151.349031"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Bunk Johnson Blowing\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1188.572018,1276.093760"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Endless\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1289.455858,1372.491752"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Clues\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1438.920468,1552.021083"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Elegies in Joy\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1583.231126,1708.930291"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"A Broken Jar\" (by Octavio Paz)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2015.399552,2068.084395"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Martin Luther King\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2100.057987,2143.007587"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Next\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2249.808928,2301.157561"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Voices\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2314.137885,2399.559868"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotated-spaces-in-the-speed-of-darkness--canvas-1-poems-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Speed of Darkness\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2430.769912,2770.358087"
+        }
+      }
+    }
+  ]
+}
