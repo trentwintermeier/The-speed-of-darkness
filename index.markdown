@@ -9,7 +9,7 @@ layout: home
 <h3 align=center>Trent Wintermeier </h3>
 
 
-In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled “The Speed of Darkness” at Sir George Williams University. This project examines how the digital annotation of silent spaces between each of Rukeyser’s thirteen poems exposes meaning through the embodiment of duality. Such a practice involves using AudiAnnotate to emphasize capacities that oftentimes are ignored or unnoticed. “Annotating Duality of Spaces in Muriel Rukeyser’s The Speed of Darkness” cultivates attunement to the possibilities for digital annotation when shifted from the margin to foster a richer center.    
+In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled “The Speed of Darkness” at Sir George Williams University. This project examines how the digital annotation of silent spaces between each of Rukeyser’s thirteen poems exposes meaning through the embodiment of duality. Such a practice involves using AudiAnnotate to emphasize capacities that oftentimes are ignored or unnoticed. “Annotating Duality of Spaces in Muriel Rukeyser’s The Speed of Darkness” reimagines the possibilities for digital annotation when meaning is shifted from the margin to foster a richer center.    
 
   
 <img src= "https://user-images.githubusercontent.com/112954339/215891421-cf14cb1a-2cd2-4dbe-9393-24dce9abf6fa.png" max-width="600" height="440" align="center">
