@@ -1,9 +1,0 @@
-{
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://trentwintermeier.github.io/The-speed-of-darkness/annotations/annotated-spaces-in-the-speed-of-darkness--canvas-1-spaces.json",
-  "type": "AnnotationPage",
-  "label": "Spaces",
-  "items": [
-
-  ]
-}
