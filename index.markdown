@@ -12,6 +12,6 @@ layout: home
 In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled “The Speed of Darkness” at Sir George Williams University. This project examines how the digital annotation of silent spaces between each of Rukeyser’s thirteen poems exposes meaning through the embodiment of duality. Such a practice involves using AudiAnnotate to emphasize capacities that oftentimes are ignored or unnoticed. “Annotating Duality of Spaces in Muriel Rukeyser’s The Speed of Darkness” reimagines the possibilities for digital annotation when meaning is shifted from the margin to foster a richer center.    
 
   
-<img src= "https://user-images.githubusercontent.com/112954339/230991643-c0977875-dc48-4eeb-93ec-d8fdfd13b451.jpeg" max-width="600" height="440" align="center">
+<img src= "rukeyser front photo](https://user-images.githubusercontent.com/112954339/230992208-fae2969d-1d74-4e2c-aa84-33030a46195c.jpeg" max-width="600" height="440" align="center">
 
 
