@@ -17,7 +17,7 @@ The unique nature of “The Speed of Darkness” is highlighted most evidently i
 
 > <img width="484" alt="fig 1" src="https://user-images.githubusercontent.com/112954339/207118064-cbd1aa36-ffac-43b9-93cf-cad0dfc93ce5.png">
 
-#### Figure 1
+#### Figure 1: First and second stanza of Rukeyser's "The Speed of Darkness"
 ---
 
 Moreover, the space that connects these two occurrences, while planned, takes an eerie presence. It’s forced and unnatural, which contributes significantly to the meaning that is communicated throughout the poem. These moments in the audio recording reaffirm a quality that Rukeyser finds in her own work: “doubleness” (Gander 296)—or what this project considers “duality”—which is a form of contrast that exists within poetics. The turn from “doubleness” to “duality” is to emphasize the dialogic relationship between these spaces which develops meaning. She states that there are “two kinds of poems: the poems of unverifiable facts…; and the other kind being the document, the poem that rests on material evidence” (Rukeyser “The Education of a Poet” 226)—and her poems encompass both. These felt, experienced dualistic spaces that are engaged in the audio recording are the subjects of analysis for this project.
@@ -30,13 +30,13 @@ Therefore, this project argues that the embodiment of audible spaces in “The S
 
 In the words of Muriel Rukeyser, regarding the duality of her work, she states that there are “two kinds of poems: the poems of unverifiable facts, based in dreams, in sex, in everything that can be given to other people only through the skill and strength by which it is given; and the other kind being the document, the poem that rests on material evidence” (Rukeyser “The Education of a Poet” 226). As Rukeyser understands her work to exist at the convergence of these “kinds of poems,” her poetry comes to balance the subjective and objective tensions which encompass poetics. And, while this is present in her words, it is also powerfully situated at the bounds and outer limits of her poetry—in the silence and spaces, and the overlap between the two. Take, for instance, Figure 2; here, the fifth stanza in “The Speed of Darkness” is illustrated as it is in Rukeyser’s book and her reading at SGWU, and this is located during minute 42:34 in the audio recording. Even the spaces—which are to be understood as caesurae—take on new and transformative meaning as they are heard and embodied via SpokenWeb’s recording. As she exaggerates syllables and the length of pauses such as between “between” and “between,” this allows for such material evidence to forge unverifiable meaning while listening to the audio. 
 
-As this interpretation unfolds, the listener involves a practice of multimodal listening that produces meaning within such subjective-objective spaces. Integral to the work with spaces in Muriel Rukeyser’s poem, “The Speed of Darkness,” is the embodiment of sound via multimodal listening. This form of embodiment functions beyond “listening practices that depend on the ears exclusively” where “listeners’ primary goal is to hear and interpret audible sound” (Ceraso 105); the embodiment of dualistic spaces involves a holistic practice of listening which encompasses multiple senses. As one listens to the spaces in Rukeyser’s work, they are forced to listen with their *entire* body—as opposed to reading these spaces in written form. Spaces come to matter and, thus, mean, through the embodiment of subjective-objective duality which involves each hemistich and caesura. In this sense, “spaces between words do not expose metaphysical breaks, but the constitutive limits of language” which barricade meaning (Hill 285). The ability for meaning to be made is a result of the subjective-objective, dualistic embodiment in Rukeyser’s poetry reading.
+As this interpretation unfolds, the listener involves a practice of multimodal listening that produces meaning within such subjective-objective spaces. Integral to the work with spaces in Muriel Rukeyser’s poem, “The Speed of Darkness,” is the embodiment of sound via multimodal listening. This form of embodiment functions beyond “listening practices that depend on the ears exclusively” where “listeners’ primary goal is to hear and interpret audible sound” (Ceraso 105); the embodiment of dualistic spaces involves a holistic practice of listening which encompasses multiple senses. As one listens to the spaces in Rukeyser’s work, they are forced to listen with their *entire* body—as opposed to reading these spaces in written form. Spaces come to matter and, thus, mean, through the embodiment of subjective-objective duality which involves each hemistich and caesura. In this sense, the spaces which separate words exhibit lingustic possibilities that interrogate current listening paradigmes. The ability for meaning to be made is a result of the subjective-objective, dualistic embodiment in Rukeyser’s poetry reading.
 
 ---
 
 > <img width="484" alt="fig 2" src="https://user-images.githubusercontent.com/112954339/207118730-f48ac31d-3659-4b78-8230-a12b95277f86.png">
 
-#### Figure 2
+#### Figure 2: Fifth stanza of Rukeyser's "The Speed of Darkness"
 ---
 
 ## Making Meaning in Silent Spaces
@@ -70,8 +70,6 @@ Clement, Tanya, Ben Brumfield, and Sara Brumfield. "The AudiAnnotate Project: Fo
 Daw, Sarah. “There is no out there”: trans-corporeality and process philosophy in Muriel Rukeyser’s The Speed of Darkness.” Feminist Modernist Studies 3.2 (2020): 217-233.
 
 Gander, Catherine. “Facing the fact: word and image in Muriel Rukeyser’s’ Worlds Alongside’.” Journal of Narrative Theory 43.3 (2013): 288-328.
-
-Hill, Annie. “Breast cancer’s rhetoricity: bodily border crisis and bridge to corporeal solidarity.” Review of Communication 16.4 (2016): 281-298.
 
 Mitts, Adam. “The Vocabulary of Silence: Voice and Disability in ‘The Speed of Darkness.’” The Muriel Rukeyser Living Archive, October 17, 2015. 
 http://murielrukeyser.emuenglish.org/2015/10/17/adam-mitts-the-vocabulary-of-silence-voice-and-disability-in-the-speed-of-darkness/.
