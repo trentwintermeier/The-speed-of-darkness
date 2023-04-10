@@ -57,7 +57,9 @@ Therefore, while this project utilizes annotations to denote embodied dualistic 
 
 *That* is shifting digital annotation from the margin to the center.  
 
-<img src= "https://user-images.githubusercontent.com/112954339/207228054-d3b85f47-31a3-4210-8e0e-a3c92a9b8597.png" max-width="600" height="440" align="center">  
+<img src= "https://user-images.githubusercontent.com/112954339/231001161-d375079a-44e4-4421-a66e-f2e2a8b877a0.jpeg" max-width="600" height="440" align="center">  
+
+<hr>
 
 ## Works Cited
 
