@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 “The poem I’ll read this evening is a group. The group is called ‘The Speed of Darkness’” (Rukeyser “Muriel Rukeyser at SGWU, 1969). Here, Muriel Rukeyser, twentieth-century American poet, prefaces her reading of the collection of poems that make up the title poem of her most recent book, The Speed of Darkness. At around the fortieth-minute of this reading at Sir George Williams University (SGWU, now Concordia University), she states that this is a collection of “short poems” and that she’ll “just pause between poems.” She jokes that “there should be numbers going up in back of me; one, two, three,” and the audience laughs. But “I’ll just pause,” she responds (Rukeyser “Muriel Rukeyser at SGWU, 1969). 
 
-<br><Br>
+<br>
 
 In this moment, Rukeyser details how she will read and delineate between stanzas in the “group” of poems that make up ‘The Speed of Darkness’. In her in-person reading, she will “just pause” between each part of this “group”—or, later in 1972, what she calls a “series” (Mitts 2015)—to note the gaps more easily identified in their visual, textual form. However, in SpokenWeb’s recording of her reading, any visual reference is left out, which further complicates the spaces between stanzas in this group of poems. What was visually “brought into relation with the other through juxtaposition” (Mitts 2015) becomes mixed up, confused, and complicated in the audio recording of Rukeyser’s reading. I argue in this project that digitally-annotating Rukeyser’s reading of spaces facilitates a new, sonic reading of the poem, one which is shaped through the practice of listening to “doubleness” in ‘The Speed of Darkness’. 
 
@@ -30,14 +30,14 @@ Take for example the fifth stanza in ‘The Speed of Darkness’ as it is illust
 
 Annotating these spaces promotes not only the recognition of “doubleness” that Rukeyser finds in her own poetry but, also, where dreams and the material meet in the process of listening to audio recordings. The annotations for “Muriel Rukeyser at SGWU, 1969” in SpokenWeb’s “Sir George Williams Poetry Series, 1966-1974” was accomplished by using AVAnnotate, a project that “builds on the new IIIF standards for AV to address the gaps in engaging with audio by developing a solution to bring together free audio annotation tools and the Web as a standardized collaboration and presentation platform” (Clement et al. 2022). In prior versions of this project, the annotations required a manual shortening of the “Muriel Rukeyser at SGWU, 1969” audio recording to only include the poem “The Speed of Darkness.” To do this, a free and open-source digital audio editor, Audacity, was used to cut the .mp3 file. After which the audio recording was annotated according to what is identified as spaces between the stanzas in the visual format of the poem. Moreover, the annotations also include an introduction by Muriel Rukeyser and the time at which she began to read each stanza. However, the final project includes the entire SpokenWeb recording to more fully contextualize the audience’s reactions, speaker remarks, and spaces in the title poem.
 
-<br><br>
+<br>
 
 Digitally-annotating thirteen spaces in “The Speed of Darkness” opens up opportunities for new readings that use the unverifiability of listening and materiality of visual form for engaging differently with Rukeyser’s work. The moments emerging after her plan to “just pause” between stanzas embody the “everything” that can possibly be given to the other through the “skill and strength” of spaces. While listening with each of these thirteen annotations, attention should be paid to how they impact the practice of listening to the recording, disrupt or inform interpretations of the poem, and illuminate different senses of doubleness found within, between, and across each stanza. 
-
+---
 
 <img src= "https://user-images.githubusercontent.com/112954339/231001161-d375079a-44e4-4421-a66e-f2e2a8b877a0.jpeg" max-width="600" height="440" align="center">  
 
-<hr>
+---
 
 ## Works Cited
 
