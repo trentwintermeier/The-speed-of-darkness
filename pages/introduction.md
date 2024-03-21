@@ -33,6 +33,7 @@ Annotating these spaces promotes not only the recognition of “doubleness” th
 <br>
 
 Digitally-annotating thirteen spaces in “The Speed of Darkness” opens up opportunities for new readings that use the unverifiability of listening and materiality of visual form for engaging differently with Rukeyser’s work. The moments emerging after her plan to “just pause” between stanzas embody the “everything” that can possibly be given to the other through the “skill and strength” of spaces. While listening with each of these thirteen annotations, attention should be paid to how they impact the practice of listening to the recording, disrupt or inform interpretations of the poem, and illuminate different senses of doubleness found within, between, and across each stanza. 
+
 ---
 
 <img src= "https://user-images.githubusercontent.com/112954339/231001161-d375079a-44e4-4421-a66e-f2e2a8b877a0.jpeg" max-width="600" height="440" align="center">  
